@@ -3,5 +3,10 @@ public class Main {
         System.out.println("sos");
         System.out.println("sos");
         System.out.println("sos");
+        System.out.println("sos");
+        System.out.println("sos");
+        System.out.println("sos");
+
+        System.out.println("sos");
     }
 }
